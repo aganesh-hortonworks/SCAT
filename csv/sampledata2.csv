@@ -1,0 +1,123 @@
+Severity,Customer Record ID,Account Name,Case Number,Status,Date/Time Opened,Date/Time Closed,Resolution Time,Ambari Version,Stack Version,Product Component,Apache BugID URL,Hortonworks BugID URL,HOTFIX BugID URL,EAR URL,Root Cause,Enhancement Request Number,Environment
+S1 - Production Down,111651480,ZUJheSBJbmM=,107611,Closed,20170101 020003.000,20170101 020744.000,0 days 0 hours8 mn,1.4.4,2.0.6,Hbase,,,,,Duplicate Case,,
+S1 - Production Down,568099779,ZUJheSBJbmM=,107612,Closed,20170101 020004.000,20170101 094851.000,0 days 7 hours15 mn,1.4.4,2.0.6,Hbase,,,,,Customer Environment (Non HDP),,
+S1 - Production Down,987943207,SFNCQw==,107615,Closed,20170101 074012.000,20170103 061541.000,1 days 22 hours35 mn,1.7.0,2.2.4,Hive,,,,,Customer Environment (Non HDP),,
+S1 - Production Down,1004350860,VGFsYXMgRGF0YSBJbnRlbGxpZ2VuY2UsIEluYw==,107633,Closed,20170102 150813.000,20170102 194057.000,0 days 4 hours33 mn,2.2.0,2.3.2,HDFS,,,,,Education - Configuration,,
+S1 - Production Down,348124977,U3ltYW50ZWM=,107637,Closed,20170102 180708.000,20170106 065125.000,3 days 0 hours11 mn,2.4.1.0,2.4.0,Hbase,,,,,Data Issue,,
+S1 - Production Down,58491643,RGFyIEFsLUhhbmRhc2Fo,107652,Closed,20170103 071607.000,20170103 073309.000,0 days 0 hours17 mn,2.4.2.0,2.4.2,HDFS,,,,,Education - Configuration,,
+S1 - Production Down,1483749696,RGFyIEFsLUhhbmRhc2Fo,107656,Closed,20170103 091214.000,20170103 102540.000,0 days 1 hours13 mn,2.4.2.0,2.4.2,Solr (HDFS),,,,,Education - Configuration,,
+S1 - Production Down,1337845185,RDJMIENvcnBvcmF0aW9u,107733,Closed,20170103 202933.000,20170103 225953.000,0 days 2 hours30 mn,2.4.2.0,2.5.3,Oozie,,,,,Education - Configuration,,
+S1 - Production Down,1679945459,Um9zcyBTdG9yZXM=,107761,Closed,20170104 002956.000,20170105 020358.000,0 days 2 hours16 mn,2.2.0,2.3.4,Hive,,,,,Customer Environment (Non HDP),,ENV-00825
+S1 - Production Down,657231325,U2NobHVtYmVyZ2Vy,107776,Closed,20170104 060327.000,20170104 070857.000,0 days 1 hours4 mn,2.4.2.0,2.5.3,Hive,https://issues.apache.org/jira/browse/HIVE-12387,,,,Education - Non Configuration,,
+S1 - Production Down,315533313,Tm92b3p5bWVzIEEvUw==,107786,Closed,20170104 091337.000,20170123 061401.000,18 days 21 hours0 mn,2.4,2.5,Hbase,,,,,Unreproducible,,ENV-00926
+S1 - Production Down,469628425,VW5pdGVkIEFpcmxpbmVz,107858,Closed,20170104 192218.000,20170210 191234.000,36 days 23 hours50 mn,2.2.2,2.3.4,HDFS,,,,,Unreproducible,,
+S1 - Production Down,509961757,TWVya2xl,107890,Closed,20170104 233754.000,20170203 231211.000,29 days 23 hours34 mn,2.4.1.0,2.2.0,Hbase,,,,,Education - Configuration,,
+S1 - Production Down,1532821443,Tm9raWEgU29sdXRpb25zIGFuZCBOZXR3b3JrcyBTeXN0ZW0gVGVjaG5vbG9neSAoQmVpamluZykgQ28uLCBMdGQu,107908,Closed,20170105 045843.000,20170105 064933.000,0 days 1 hours51 mn,1.7.0,2.2.0,Hbase,,,,,Education - Non Configuration,,
+S1 - Production Down,1354050117,S0FZQUsgU29mdHdhcmUgQ29ycG9yYXRpb24=,107994,Closed,20170105 202802.000,20170105 234250.000,0 days 3 hours15 mn,2.4.1.0,2.4.3,HDFS,,,,,Working as Designed,,
+S1 - Production Down,686846890,VC1Nb2JpbGUgRW5nIEludGVsICYgQW5hbHl0aWNz,108002,Closed,20170105 214602.000,20170109 184323.000,0 days 1 hours23 mn,2.2.2,2.4.2,HDFS,,,,,Education - Non Configuration,,
+S1 - Production Down,1717802065,RElSRUNUVg==,108006,Closed,20170105 220630.000,20170106 010732.000,0 days 0 hours52 mn,2.4.2.0,2.2.8,Ambari,,,,,Education - Non Configuration,,ENV-01004
+S1 - Production Down,904932201,V2FsLU1hcnQgU3RvcmVzIEluYy4=,108117,Closed,20170106 224529.000,20170107 011504.000,0 days 2 hours30 mn,2.2.2,2.4.2,Ambari,,,,,Third Party Issue,,
+S1 - Production Down,1308420533,U3RhbmRhcmQgQ2hhcnRlcmVkIEJhbmsgKFNpbmdhcG9yZSk=,108137,Closed,20170107 025348.000,20170107 041025.000,0 days 1 hours17 mn,2.4.2.0,2.4.2,Ambari,,,,,Working as Designed,,
+S1 - Production Down,1489423845,Q29tY2FzdA==,108143,Closed,20170107 054102.000,20170110 211739.000,3 days 15 hours37 mn,2.4.1.0,2.4.3,HDFS,,,,,Education - Configuration,,ENV-00234
+S1 - Production Down,2053538263,VmlzdWFsIElR,108145,Closed,20170107 094449.000,20170130 094443.000,9 days 5 hours23 mn,2.2.0,2.4.0,Hive,,,,,Customer Environment (Non HDP),,ENV-00534
+S1 - Production Down,1811065029,Q29tY2FzdA==,108146,Closed,20170107 172914.000,20170110 211929.000,0 days 5 hours8 mn,2.4.1.0,2.4.3,Accumulo,,,,https://hortonworks.jira.com/browse/EAR-5255,Use Case Advice,,ENV-00234
+S1 - Production Down,22163030,UGl2b3RhbCwgSW5j,108190,Closed,20170109 121942.000,20170112 141815.000,3 days 1 hours59 mn,Not using Ambari,2,HDFS,,,,,Unreproducible,,
+S1 - Production Down,2134298624,Q294IENvbW11bmljYXRpb25z,108192,Closed,20170109 130549.000,20170109 171439.000,0 days 4 hours9 mn,2.2.2,2.4.2,Zookeeper,,,,,Documentation – Gap,,
+S1 - Production Down,459332711,Q29ub2NvUGhpbGxpcHM=,108235,Closed,20170109 190246.000,20170110 153811.000,0 days 20 hours32 mn,2.2.0,2.3.4,Hive,,,,,Use Case Advice,,
+S1 - Production Down,1305890247,QWNjZW50dXJlIENJTw==,108238,Closed,20170109 191811.000,20170109 200459.000,0 days 0 hours47 mn,2.4.1.0,2.3.4,Ranger,,,,,Education - Configuration,,
+S1 - Production Down,369903363,Q2hpbGRyZW4ncyBIb3NwaXRhbCBMb3MgQW5nZWxlcw==,108247,Closed,20170109 195845.000,20170109 211912.000,0 days 1 hours20 mn,2.4.2.0,2.5,Ambari,,,,,Education - Configuration,,
+S1 - Production Down,1109773790,WnVsaWx5,108255,Closed,20170109 204849.000,20170109 235301.000,0 days 3 hours4 mn,2.0.0,2.5,Hive,,,,,Working as Designed,,ENV-00312
+S1 - Production Down,450049271,SG9tZSBEZXBvdA==,108280,Closed,20170109 231123.000,20170130 211256.000,20 days 22 hours2 mn,,2.4.2,HDFS,,,,,Education - Configuration,,
+S1 - Production Down,1725746345,RGFpbWxlciBUcnVja3MgTm9ydGggQW1lcmljYQ==,108294,Closed,20170110 005732.000,20170116 160524.000,6 days 15 hours8 mn,2.4.1.0,2.5.3,Hbase,,,,,Education - Configuration,,
+S1 - Production Down,824269803,RGFpbWxlciBUcnVja3MgTm9ydGggQW1lcmljYQ==,108295,Closed,20170110 005733.000,20170110 030720.000,0 days 2 hours10 mn,2.4.1.0,2.5.3,Hbase,,,,,Duplicate Case,,
+S1 - Production Down,1607857646,Q29ub2NvUGhpbGxpcHM=,108314,Closed,20170110 074040.000,20170110 092240.000,0 days 1 hours42 mn,2.2.0,2.3.4,Ambari,,,,,Education - Configuration,,ENV-00639
+S1 - Production Down,547595386,VmVyaXpvbg==,108358,Closed,20170110 173922.000,20170112 190851.000,2 days 1 hours29 mn,2.2.0,2.3.4,HDFS,,,,,Working as Designed,,
+S1 - Production Down,117373738,SW50YWN0IEZpbmFuY2lhbCBDb3Jwb3JhdGlvbg==,108400,Closed,20170110 220722.000,20170221 113337.000,5 days 16 hours59 mn,2.4.0.1,2.4.0,Cloudbreak,,,,,Education - Configuration,,
+S1 - Production Down,1103832690,SXRzT24sIEluYw==,108406,Closed,20170110 223225.000,20170113 235344.000,0 days 0 hours41 mn,2.4,2.3.6.0,Hbase,,,,,Working as Designed,,
+S1 - Production Down,699583835,TW91bnQgU2luYWkgSG9zcGl0YWw=,108413,Closed,20170110 235510.000,20170111 015949.000,0 days 2 hours5 mn,,2.1.0,Ambari (HDF),,,,,Education - Configuration,,
+S1 - Production Down,1036835193,SXRzT24sIEluYw==,108498,Closed,20170111 183316.000,20170111 190519.000,0 days 0 hours32 mn,2.4,2.3.6.0,YARN,,,,,Use Case Advice,,
+S1 - Production Down,993903262,QXBwbGUgSW5jLg==,108502,Closed,20170111 185839.000,20170112 185653.000,0 days 1 hours38 mn,2.2.1.1,2.2.9,Hive,,,,,Use Case Advice,,ENV-00034
+S1 - Production Down,1007784792,SXRzT24sIEluYw==,108512,Closed,20170111 204118.000,20170112 013332.000,0 days 3 hours34 mn,2.4,2.3.6.0,Ambari,,,,,Customer Environment (Non HDP),,
+S1 - Production Down,1769591532,R2Vpc2luZ2VyIFN5c3RlbSBTZXJ2aWNlcw==,108524,Closed,20170111 223024.000,20170111 232519.000,0 days 0 hours55 mn,2.4.1.0,2.5,HDFS,,,,,Working as Designed,,ENV-00669
+S1 - Production Down,946441506,VmVyaXpvbg==,108542,Closed,20170112 032530.000,20170127 095611.000,0 days 6 hours21 mn,2.2.2,2.3.4,Ambari,,,,,Unreproducible,,
+S1 - Production Down,1760146966,TWljcm9uIFRlY2hub2xvZ3k=,108544,Closed,20170112 045715.000,20170223 060536.000,7 days 9 hours41 mn,2.2.2,2.3.4,Hive,,,,,Unreproducible,,
+S1 - Production Down,1292913577,UmVsaWFuY2U=,108547,Closed,20170112 053055.000,20170112 064016.000,0 days 1 hours9 mn,2.2.1.1,2.4.0,Kafka,,,,,Education - Configuration,,
+S1 - Production Down,18631292,RGFuc2tlIEJhbms=,108568,Closed,20170112 113402.000,20170112 143030.000,0 days 2 hours56 mn,2.4.2.0,2.5.3,Ambari,,,,,Education - Configuration,,
+S1 - Production Down,692150542,U3ltYW50ZWM=,108573,Closed,20170112 124446.000,20170112 194716.000,0 days 7 hours3 mn,2.4.1.0,2.3.4,Kafka,,,,,Education - Configuration,,
+S1 - Production Down,1695437438,RmxvcmlkYSBQb3dlciAmIExpZ2h0,108602,Closed,20170112 164646.000,20170113 161057.000,0 days 23 hours24 mn,2.4.1.0,2.5,Zookeeper,,,,,Education - Non Configuration,,ENV-00716
+S1 - Production Down,1584146011,RmxvcmlkYSBQb3dlciAmIExpZ2h0,108603,Closed,20170112 164647.000,20170112 165946.000,0 days 0 hours13 mn,2.4.1.0,2.5,Zookeeper,,,,,Duplicate Case,,ENV-00716
+S1 - Production Down,1683435411,Um9zcyBTdG9yZXM=,108630,Closed,20170112 195643.000,20170112 212330.000,0 days 1 hours27 mn,2.4.2.0,2.4.3,Ambari,,,,,Working as Designed,,ENV-00825
+S1 - Production Down,43787080,RnJlZXBvcnQtTWNNb1JhbiBDb3BwZXIgJiBHb2xk,108633,Closed,20170112 201452.000,20170112 232056.000,0 days 3 hours4 mn,2.2.0,2.3.4,Ambari,,,,,Education - Configuration,,ENV-00683
+S1 - Production Down,2043536769,VW5pdGVkIEFpcmxpbmVz,108646,Closed,20170112 215332.000,20170113 001436.000,0 days 2 hours17 mn,2.4.2.0,2.3.4,Ambari,,,,,Education - Configuration,,
+S1 - Production Down,403538087,VW5pdGVkIEFpcmxpbmVz,108675,Closed,20170113 023842.000,20170208 044210.000,11 days 1 hours54 mn,2.4.2.0,2.5.3,Ranger,,,,https://hortonworks.jira.com/browse/EAR-5281,Unreproducible,,
+S1 - Production Down,228479422,QmFuayBvZiBFbmdsYW5k,108697,Closed,20170113 102414.000,20170127 145330.000,14 days 4 hours29 mn,2.4.2.0,2.4.2,Hive,,,,,Education - Configuration,,
+S1 - Production Down,1807777032,UGF5dmlzaW9u,108715,Closed,20170113 144727.000,20170113 161618.000,0 days 1 hours29 mn,2.4.2.0,2.5,HDFS,,https://hortonworks.jira.com/browse/BUG-72284,,,Product Defect,,
+S1 - Production Down,1478171930,RXJuc3QgJiBZb3VuZyAoIEN1c3RvbWVyKQ==,108732,Closed,20170113 155953.000,20170113 161915.000,0 days 0 hours12 mn,2.2.1.1,2.4.0,YARN,,,,,Education - Configuration,,ENV-00836
+S1 - Production Down,2094301303,TW91bnQgU2luYWkgSG9zcGl0YWw=,108736,Closed,20170113 161407.000,20170303 234731.000,49 days 7 hours33 mn,2.4.1.0,2.5,Phoenix,https://issues.apache.org/jira/browse/PHOENIX-2930,https://hortonworks.jira.com/browse/BUG-75177,,https://hortonworks.jira.com/browse/EAR-5493,Unreproducible,,
+S1 - Production Down,1184339619,U3RhdGUgRmFybSBJbnN1cmFuY2U=,108777,Closed,20170113 210729.000,20170124 221253.000,10 days 21 hours57 mn,2.2.0,2.2.9,Hbase,,,,,Education - Non Configuration,,
+S1 - Production Down,69404381,R29sZG1hbiBTYWNocyBHcm91cCwgSW5jLg==,108786,Closed,20170113 221106.000,20170116 195055.000,0 days 2 hours11 mn,,2.2.0,HDFS,,,,,Education - Non Configuration,,
+S1 - Production Down,1960656339,QWR2YW5jZWQgTWljcm8gRGV2aWNlcw==,108812,Closed,20170114 172000.000,20170116 021443.000,1 days 8 hours55 mn,2.4.1.0,2.5,Ambari,,,,,Education - Configuration,,
+S1 - Production Down,1083980950,QmFuayBvZiBOb3ZhIFNjb3RpYQ==,108824,Closed,20170115 234442.000,20170116 015750.000,0 days 2 hours13 mn,2.4.1.0,2.3.4,YARN,,,,,Customer Environment (Non HDP),,ENV-00942
+S1 - Production Down,117663352,TkJDVQ==,108843,Closed,20170116 100725.000,20170203 201215.000,8 days 7 hours25 mn,2.2.2,2.4.2,Zookeeper,,,,,Education - Configuration,,
+S1 - Production Down,485148248,UGVvcGxlRmluZGVycy5jb20=,108898,Closed,20170116 174342.000,20170123 180057.000,1 days 7 hours1 mn,2.2.2,2.3.4,Hive,,,,,Education - Configuration,,
+S1 - Production Down,1160512321,R3JlYXQgQW1lcmljYW4gSW5zdXJhbmNlIENvbXBhbnk=,108951,Closed,20170117 045003.000,20170117 063643.000,0 days 1 hours47 mn,2.4.2.0,2.5.3,Ambari,,https://hortonworks.jira.com/browse/BUG-51240,,,Product Defect,,ENV-00504
+S1 - Production Down,193056407,UGF5dmlzaW9u,108965,Closed,20170117 090937.000,20170117 101357.000,0 days 0 hours28 mn,2.4.2.0,2.5,HDFS,,,,,Education - Configuration,,
+S1 - Production Down,1267678704,VmlzdWFsIElR,108978,Closed,20170117 122137.000,20170117 133426.000,0 days 1 hours13 mn,2.2.0,2.4.0,Cloudbreak,,,,,Education - Configuration,,ENV-00534
+S1 - Production Down,1192235847,R2Vpc2luZ2VyIFN5c3RlbSBTZXJ2aWNlcw==,108987,Closed,20170117 144640.000,20170117 160142.000,0 days 1 hours15 mn,2.4.1.0,2.5,YARN,https://issues.apache.org/jira/browse/YARN-2873,https://issues.apache.org/jira/browse/YARN-2873,,,Product Defect,,ENV-00669
+S1 - Production Down,904931088,RnJlZXBvcnQtTWNNb1JhbiBDb3BwZXIgJiBHb2xk,109089,Closed,20170117 213556.000,20170118 000233.000,0 days 2 hours27 mn,2.4.2.0,2.3.4,Ambari,,,,,Education - Non Configuration,,
+S1 - Production Down,134499392,QXRvcyBGcmFuY2U=,109131,Closed,20170118 073408.000,20170119 184104.000,0 days 8 hours15 mn,2.2.2,2.3.6.0,Hive,,,,,Education - Configuration,,
+S1 - Production Down,414149250,TWljcm9uIFRlY2hub2xvZ3k=,109133,Closed,20170118 081654.000,20170123 183627.000,0 days 3 hours8 mn,2.2.2,2.3.4,Hbase,,,,,Use Case Advice,,
+S1 - Production Down,939189569,R2VuZXJhbCBFbGVjdHJpYyBDb3Jw,109134,Closed,20170118 082851.000,20170204 194550.000,0 days 10 hours37 mn,2.4.2.0,2.5.3,Ambari,,,,,Unreproducible,,ENV-00553
+S1 - Production Down,399871821,UmVuYXVsdA==,109169,Closed,20170118 140755.000,20170118 163859.000,0 days 0 hours52 mn,2.4.2.0,2.5.3,Ambari,,,,,Data Issue,,
+S1 - Production Down,1462937534,RmVkZXJhbCBBdmlhdGlvbiBBZG1pbmlzdHJhdGlvbg==,109265,Closed,20170118 223716.000,20170124 235820.000,6 days 1 hours21 mn,2.1.1,2.3.0,HDFS,,,,,Unreproducible,,ENV-00589
+S1 - Production Down,1681714577,QVQmVCwgVVM=,109283,Closed,20170119 010121.000,20170120 000513.000,0 days 2 hours36 mn,2.4.0.1,2.4.2,YARN,,https://hortonworks.jira.com/browse/BUG-54619,,https://hortonworks.jira.com/browse/EAR-5147,Product Defect,,
+S1 - Production Down,2116388938,UGF5UGFs,109290,Closed,20170119 024235.000,20170124 182432.000,1 days 14 hours54 mn,2.2.2,2.2.9,Hive,,,,https://hortonworks.jira.com/browse/EAR-5325,Customer Environment (Non HDP),,ENV-00973
+S1 - Production Down,152839824,UmFpbGluYw==,109354,Closed,20170119 150316.000,20170119 155842.000,0 days 0 hours55 mn,2.2.2,2.3.4,Ambari,,,,,Customer Environment (Non HDP),,
+S1 - Production Down,1471969792,UmFpbGluYw==,109393,Closed,20170119 184038.000,20170119 201456.000,0 days 1 hours34 mn,2.2.2,2.4.0,Ambari,,,,,Third Party Issue,,
+S1 - Production Down,1530169003,UHViTWF0aWM=,109522,Closed,20170120 063637.000,20170120 083048.000,0 days 1 hours54 mn,2.1.0,2.3.0,Kafka,,,,,Working as Designed,,
+S1 - Production Down,1256766033,VEVMRUZPTklDQSBDSElMRQ==,109541,Closed,20170120 112541.000,20170120 143439.000,0 days 1 hours4 mn,2.2.0,2.3.4,HDFS,,,,,Customer Environment (Non HDP),,
+S1 - Production Down,729045806,Q29tY2FzdA==,109543,Closed,20170120 120219.000,20170127 143022.000,7 days 2 hours28 mn,2.4.1.0,2.2.9,HDFS,,,,https://hortonworks.jira.com/browse/EAR-5334,Education - Configuration,,ENV-00234
+S1 - Production Down,307934200,RXRoaW9waWFuIEFpcmxpbmVz,109547,Closed,20170120 134111.000,20170120 173428.000,0 days 3 hours53 mn,2.4.1.0,2.5,Ambari,,,,,Use Case Advice,,ENV-01108
+S1 - Production Down,1737746517,VEQgQW1lcml0cmFkZQ==,109553,Closed,20170120 145756.000,20170120 153315.000,0 days 0 hours35 mn,2.4.2.0,2.4.3,Ambari,,,,,Education - Configuration,,ENV-00382
+S1 - Production Down,909521075,V2FsLU1hcnQgU3RvcmVzIEluYy4=,109565,Closed,20170120 155033.000,20170120 175831.000,0 days 1 hours59 mn,2.2.2,2.4.2,Ambari,,,,,Education - Configuration,,
+S1 - Production Down,750011912,SGVsbWVyaWNoICYgUGF5bmU=,109576,Closed,20170120 164651.000,20170120 171404.000,0 days 0 hours27 mn,2.4.2.0,2.5.3,HDFS,,,,,Education - Non Configuration,,ENV-01127
+S1 - Production Down,396703334,VHJhdmVscG9ydA==,109578,Closed,20170120 165703.000,20170120 202301.000,0 days 3 hours26 mn,2.2.1,2.3.4,Zookeeper,,,,,Customer Environment (Non HDP),,
+S1 - Production Down,2096239069,U3RhcGxlcw==,109601,Closed,20170120 192831.000,20170120 205637.000,0 days 1 hours28 mn,2.1.2.1,2.3.2,Solr (HDFS),,,,,Data Issue,,
+S1 - Production Down,1420199213,VGVyYWRhdGEgQ29ycG9yYXRpb24=,109632,Closed,20170121 015936.000,20170126 004300.000,1 days 1 hours4 mn,2.2.1,2.3.2,YARN,,,,,Education - Non Configuration,,
+S1 - Production Down,1439857204,SW5mb3N5cyBMaW1pdGVkIChJbmRpYSk=,109638,Closed,20170121 123514.000,20170124 122212.000,2 days 23 hours47 mn,1.7.0,2.2.0,Hbase,,,,,Education - Configuration,,ENV-00563
+S1 - Production Down,688543030,TWljcm9zb2Z0IChSZXN0cmljdGVkKQ==,109641,Closed,20170121 160723.000,20170122 092802.000,0 days 1 hours14 mn,2.2.1.1,2.3.4,Hive,,,,,Customer Environment (Non HDP),,
+S1 - Production Down,152032142,REZTIENvcnBvcmF0ZSBTZXJ2aWNlcyBMTEM=,109645,Closed,20170121 183128.000,20170123 174504.000,0 days 1 hours42 mn,2.2.2,2.4.2,Ranger,,,,,Education - Configuration,,ENV-00123
+S1 - Production Down,1071614752,SW5mb3N5cyBMaW1pdGVkIChJbmRpYSk=,109647,Closed,20170121 194652.000,20170121 215724.000,0 days 2 hours11 mn,1.6.0,2.2.0,Hbase,,,,https://hortonworks.jira.com/browse/EAR-5336,Education - Non Configuration,,ENV-00563
+S1 - Production Down,1949531133,VGVyYWRhdGEgQ29ycG9yYXRpb24=,109652,Closed,20170122 011944.000,20170123 175135.000,0 days 1 hours41 mn,2.4,2.5,YARN,,,,,Education - Configuration,,
+S1 - Production Down,675102448,VGVyYWRhdGEgQ29ycG9yYXRpb24=,109653,Closed,20170122 024439.000,20170123 175414.000,0 days 0 hours0 mn,2.4,2.5,Ranger,,,,,Education - Configuration,,
+S1 - Production Down,1883077067,VGVyYWRhdGEgQ29ycG9yYXRpb24=,109654,Closed,20170122 030006.000,20170123 175520.000,0 days 0 hours19 mn,2.4,2.5,YARN,,,,,Education - Non Configuration,,
+S1 - Production Down,1291324732,VmVyaXpvbg==,109669,Closed,20170123 021132.000,20170207 054241.000,0 days 3 hours18 mn,,1.3.2,HDFS,,,,,Customer Environment (Non HDP),,
+S1 - Production Down,100065311,UmVuYXVsdA==,109695,Closed,20170123 130520.000,20170123 141726.000,0 days 1 hours12 mn,2.4.2.0,2.5.3,Spark,,,,,Education - Configuration,,
+S1 - Production Down,2114998052,UHJvZ3Jlc3NpdmUgSW5zdXJhbmNl,109697,Closed,20170123 134120.000,20170123 145650.000,0 days 1 hours15 mn,2.4.2.0,2.3.4,HDFS,,,,,Customer Environment (Non HDP),,ENV-00068
+S1 - Production Down,1007853496,QmxhY2sgS25pZ2h0IEZpbmFuY2lhbCBTZXJ2aWNlcw==,109724,Closed,20170123 160855.000,20170123 184652.000,0 days 1 hours54 mn,2.2.1,2.3.4,HDFS,,,,,Education - Configuration,,
+S1 - Production Down,471724535,SGVsbWVyaWNoICYgUGF5bmU=,109730,Closed,20170123 163918.000,20170123 222412.000,0 days 5 hours45 mn,2.4.2.0,2.5,Ambari,,,,,Education - Configuration,,ENV-01127
+S1 - Production Down,445715227,U3RhcGxlcw==,109758,Closed,20170123 182322.000,20170123 191538.000,0 days 0 hours52 mn,2.1.2.1,2.3.2,HDFS,,,,,Education - Configuration,,
+S1 - Production Down,1934640919,Q2VydGlseXRpY3M=,109760,Closed,20170123 183632.000,20170124 151818.000,0 days 4 hours36 mn,1.7.0,2.1.10,Hive,,,,,Use Case Advice,,
+S1 - Production Down,362097427,U2NobHVtYmVyZ2Vy,109865,Closed,20170124 105108.000,20170209 122519.000,0 days 0 hours31 mn,2.4.2.0,2.5.3,HDFS,,,,,Unreproducible,,
+S1 - Production Down,1885587832,TGxveWRzIEJhbmtpbmcgR3JvdXA=,109874,Closed,20170124 132044.000,20170221 100242.000,27 days 20 hours42 mn,2.2.2,2.3.4,YARN,,,,https://hortonworks.jira.com/browse/EAR-5349,Unreproducible,,
+S1 - Production Down,1436469460,QWJib3R0IExhYm9yYXRvcmllcw==,109916,Closed,20170124 165158.000,20170125 203902.000,0 days 5 hours40 mn,2.2.2,2.3.2,Hive,,,,,Education - Configuration,,
+S1 - Production Down,1406496540,SG9ydG9ud29ya3MsIEluYy4=,109977,Closed,20170124 224736.000,20170127 192925.000,2 days 20 hours40 mn,2.4,2.5.3,Hive,,,,,Education - Non Configuration,,
+S1 - Production Down,1250717493,Qm9sZCBMTEM=,109998,Closed,20170125 065720.000,20170222 075053.000,7 days 23 hours4 mn,,2.3.4,Hive,,,,,Education - Configuration,,
+S1 - Production Down,1446691491,TmV4Z2Vu,110016,Closed,20170125 111350.000,20170130 113514.000,1 days 1 hours11 mn,2.1.2.1,2.3.2,Ambari,,,,,Education - Configuration,,
+S1 - Production Down,1920930596,QWV0bmE=,110069,Closed,20170125 170748.000,20170125 193413.000,0 days 2 hours26 mn,,2,NiFI,,,,,Education - Configuration,,
+S1 - Production Down,631218114,TWFya2V0bw==,110089,Closed,20170125 184321.000,20170222 213346.000,14 days 2 hours45 mn,2.2.0,2.3.4,Hbase,,,,https://hortonworks.jira.com/browse/EAR-5371,Unreproducible,,ENV-01113
+S1 - Production Down,2019391643,Q2hhcnRlciBDb21tdW5pY2F0aW9ucywgSW5jLiAoVmlkZW8gT3BzKQ==,110092,Closed,20170125 190323.000,20170125 201821.000,0 days 0 hours36 mn,,2.1.1,NiFI,,,,,Education - Configuration,,
+S1 - Production Down,180226205,Q2hhcnRlciBDb21tdW5pY2F0aW9ucywgSW5jLiAoVmlkZW8gT3BzKQ==,110144,Closed,20170125 231419.000,20170127 175941.000,1 days 18 hours45 mn,,2.1.1,NiFI,,,,,Education - Configuration,,
+S1 - Production Down,199303616,VE1XIFN5c3RlbXM=,110164,Closed,20170126 020642.000,20170202 235047.000,7 days 21 hours44 mn,2.2.2,2.3.6.0,Hive,,,,,Education - Configuration,,
+S1 - Production Down,1131557767,VGVsZWZvbmljYSBNZXhpY28=,110221,Closed,20170126 161817.000,20170127 161421.000,0 days 2 hours44 mn,2.2.1.1,2.4.0,HDFS,,,,,Use Case Advice,,
+S1 - Production Down,91062140,TWljcm9uIFRlY2hub2xvZ3k=,110253,Closed,20170126 192427.000,20170126 210947.000,0 days 1 hours45 mn,2.2.2,2.3.4,HDFS,,,,,Education - Configuration,,
+S1 - Production Down,1435797283,VFgtVW5pdmVyc2l0eSBvZiBOb3J0aCBUZXhhcw==,110283,Closed,20170126 221901.000,20170131 180416.000,3 days 19 hours15 mn,2.2.2,2.4.2,HDFS,,,,,Unreproducible,,ENV-01017
+S1 - Production Down,1125296271,SXJkZXRvIENhbmFkYSBDb3Jwb3JhdGlvbg==,110285,Closed,20170126 222237.000,20170127 021138.000,0 days 3 hours49 mn,2.1.2,2.3.2,Hbase,,,,,Education - Non Configuration,,
+S1 - Production Down,1141170084,V2FsLU1hcnQgU3RvcmVzIEluYy4=,110297,Closed,20170127 003137.000,20170127 010129.000,0 days 0 hours30 mn,2.2.2.18,2.3.2,HDFS,,,,,Education - Configuration,,
+S1 - Production Down,1420264418,RnJlZXBvcnQtTWNNb1JhbiBDb3BwZXIgJiBHb2xk,110305,Closed,20170127 024626.000,20170127 044759.000,0 days 2 hours2 mn,2.4.2.0,2.3.4,Ambari,,,,,Customer Environment (Non HDP),,ENV-00683
+S1 - Production Down,449714428,VmlzdWFsIElR,110325,Closed,20170127 090542.000,20170127 093726.000,0 days 0 hours32 mn,2.2.0,2.4.0,Ambari,,,,,Education - Configuration,,ENV-00534
+S1 - Production Down,796651537,R29sZG1hbiBTYWNocyBHcm91cCwgSW5jLg==,110336,Closed,20170127 113719.000,20170127 134422.000,0 days 2 hours7 mn,,2.1.1,HDFS,,,,,Education - Configuration,,
+S1 - Production Down,1149138256,TWVya2xl,110450,Closed,20170128 175849.000,20170129 010920.000,0 days 7 hours11 mn,2.2.1.1,2.3.4,Map Reduce,,,,,Education - Configuration,,ENV-00445
+S1 - Production Down,358748285,QWR2YW5jZWQgTWljcm8gRGV2aWNlcw==,110451,Closed,20170128 181303.000,20170206 155557.000,8 days 21 hours43 mn,2.4.1.0,2.5,Zookeeper,,,,,Education - Configuration,,
+S1 - Production Down,1371610203,ZUJheSBJbmM=,110453,Closed,20170129 083934.000,20170208 181633.000,10 days 9 hours37 mn,Not using Ambari,2.4.2,Hbase,https://issues.apache.org/jira/browse/HBASE-16721,,,https://hortonworks.jira.com/browse/EAR-5368,Education - Configuration,,
+S1 - Production Down,1062636520,Um93YW4gQ29tcGFuaWVz,110459,Closed,20170129 115130.000,20170130 101107.000,0 days 18 hours2 mn,2.4.2.0,2.5.3,HDFS,,,,https://hortonworks.jira.com/browse/EAR-5369,Education - Configuration,,ENV-01084

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script type="text/javascript" src="D3JS/d3.js"></script>
+</head>
+
+<body>
+    <h2 class="myclass">Message</h2>
+    <div class="myclass">
+        Hello World!
+    </div>
+    <svg width="200" height="200" id="svg1"></svg>
+    <svg width="200" height="200" id="svg2"></svg>
+
+    <script>
+        d3.select("body")
+            .append("p")
+            .text("New Paragraph!");
+        var svg1 = d3.select("#svg1");
+        svg1.append("circle")
+            .attr("cx", 100)
+            .attr("cy", 100)
+            .attr("r", 90)
+            .attr("fill", "red");
+        var svg2 = d3.select("#svg2");
+        svg2.append("circle")
+            .attr("cx", 100)
+            .attr("cy", 100)
+            .attr("r", 90)
+            .attr("fill", "blue");
+
+        var dataArray = [20, 40, 50];
+
+        var canvas = d3.select("body")
+            .append("svg")
+            .attr("width", 500)
+            .attr("height", 500);
+
+        var bars = canvas.selectAll("rect")
+            .data(dataArray)
+            .enter()
+                .append("rect")
+                .attr("width", function(d) {
+                    return d * 10;
+                })
+                .attr("height", 50)
+                .attr("y", function(d, i) {
+                    return i * 100
+                });
+    </script>
+</body>
+
+</html>
